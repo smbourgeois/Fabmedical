@@ -6,7 +6,7 @@ on:
     branches:
     - main
     paths:
-    - 'content-web/**'
+     - 'content-web/**'
      - web.deployment.yml
      - web.service.yml
 
